@@ -1,6 +1,6 @@
 
 
-score = 10
+score = 55
 if (score > 75) and (score <= 100):
     print ("A")
 elif (score >= 60) and score < 75:
